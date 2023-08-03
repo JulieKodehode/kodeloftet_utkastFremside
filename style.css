@@ -1,0 +1,25 @@
+body {
+	background-color: #e5c8c1ff;
+
+	text-align: center;
+}
+
+.title {
+	font-family: monospace;
+	font-size: 40px;
+	color: #9d3a33ff;
+
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+.avatar {
+	height: 300px;
+	max-width: 100%;
+
+	border-radius: 50%;
+	box-shadow: 0 0 10px 3px;
+}
+
+.projectTitle {
+	color: #cc6b73ff;
+}
